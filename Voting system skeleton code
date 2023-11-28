@@ -1,0 +1,56 @@
+# coding=System
+from CAST_VOTE import *
+from admin import *
+from new_class import *
+
+class candidate(object):
+
+  """
+   
+
+  :version:
+  :author:
+  """
+
+  """ ATTRIBUTES
+
+   
+
+  CAND_NAME  (private)
+
+   
+
+  PARTY_SYMBOL  (private)
+
+   
+
+  POSITION  (private)
+
+  """
+
+  def CONSTITUENCY(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def SUBMIT_NOMINATION(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def CANCEL_NOMINATION(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass

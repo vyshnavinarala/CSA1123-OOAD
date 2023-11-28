@@ -1,0 +1,47 @@
+# coding=System
+
+from admin import *
+from new_class import *
+
+class customer (object):
+
+  """
+   
+
+  :version:
+  :author:
+  """
+
+  """ ATTRIBUTES
+
+   
+
+  NAME  (private)
+
+   
+
+  id  (private)
+
+   
+
+  Ph no (private)
+
+  """
+
+  def enable user(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def disable user(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass

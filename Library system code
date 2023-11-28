@@ -1,0 +1,44 @@
+# coding=System
+
+class books(object):
+
+  """
+   
+
+  :version:
+  :author:
+  """
+
+  """ ATTRIBUTES
+
+   
+
+  name  (private)
+
+   
+
+  author_name  (private)
+
+   
+
+  book_id  (private)
+
+  """
+
+  def show_books(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def show_price(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
